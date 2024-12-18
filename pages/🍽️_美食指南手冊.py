@@ -9,6 +9,8 @@ st.markdown(
 )
 st.title("西班牙")
 st.header("1.炭烤香料馬鈴薯章魚腳 Pulpo a la Gallega(Galician-style octopus)")
+image_url = "https://github.com/your-username/your-repository/blob/main/your-image.jpg?raw=true"
+st.image(image_url, caption="炭烤香料馬鈴薯章魚腳", use_column_width=True)
 
 markdown = """
 源自西班牙西北部的加利西亞（Galicia）地區，加利西亞有著悠久的海鮮捕撈歷史，尤其是章魚，這使得章魚成為當地餐桌上的重要食材之一。而這道菜也是一種文化象徵，代表著加利西亞人對海洋資源和傳統烹飪的敬意。例如，在加利西亞的章魚節（Festa do Pulpo），這道菜會被大規模製作和享用，成為當地居民和遊客共同慶祝的中心。
