@@ -7,7 +7,7 @@ st.markdown(
    待補
     """
 )
-
+st.title("🇪🇸西班牙")
 st.header("1.炭烤香料馬鈴薯章魚腳 Pulpo a la Gallega(Galician-style octopus)")
 
 markdown = """
