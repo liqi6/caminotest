@@ -1,3 +1,5 @@
+import streamlit as st
+
 #美食指南手冊
 ##西班牙
 #1.炭烤香料馬鈴薯章魚腳 Pulpo a la Gallega(Galician-style octopus)
