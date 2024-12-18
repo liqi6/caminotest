@@ -20,7 +20,7 @@ markdown = """
 st.markdown(markdown)
 
 st.header("2.西班牙海鮮大鍋飯 Paella de Marisco")
-image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E7%82%AD%E7%83%A4%E9%A6%99%E6%96%99%E9%A6%AC%E9%88%B4%E8%96%AF%E7%AB%A0%E9%AD%9A%E8%85%B3.jpeg?raw=true"
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B5%B7%E9%AE%AE%E5%A4%A7%E9%8D%8B%E9%A3%AF.jpeg?raw=true"
 st.image(image_url, caption="Paella de Marisco", use_container_width=True)
 
 markdown = """
