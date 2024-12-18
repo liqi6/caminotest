@@ -20,6 +20,8 @@ markdown = """
 st.markdown(markdown)
 
 st.header("2.西班牙海鮮大鍋飯 Paella de Marisco")
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E7%82%AD%E7%83%A4%E9%A6%99%E6%96%99%E9%A6%AC%E9%88%B4%E8%96%AF%E7%AB%A0%E9%AD%9A%E8%85%B3.jpeg?raw=true"
+st.image(image_url, caption="Paella de Marisco", use_container_width=True)
 
 markdown = """
 Paella（帕埃利亞）這個名字本身，來自於西班牙的瓦倫西亞地區（Valencia）。隨著西班牙飲食文化的傳播，Paella 也逐漸成為全球著名的西班牙美食之一。各地的餐廳和家庭都會根據自己的需求，創造出不同版本的 Paella。
