@@ -53,6 +53,8 @@ Tortilla Española 可以在西班牙的每個家庭、酒吧和餐廳中找到�
 st.markdown(markdown)
 
 st.header("5.塔帕斯 Tapas")
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E5%A1%94%E5%B8%95%E6%96%AF%EF%BC%88Tapas%EF%BC%89.jpg?raw=true"
+st.image(image_url, caption="Tapas", use_container_width=True)
 
 markdown = """
 最早出現於西班牙的酒吧或餐館，當時酒吧的主人會用一片麵包或薄片肉類（例如火腿或香腸）來蓋住酒杯，防止灰塵或蚊子進入酒中。這片小食就被稱為 "tapa"（蓋子之意）。
@@ -61,6 +63,8 @@ markdown = """
 st.markdown(markdown)
 
 st.header("6.伊比利火腿 Jamon Iberico")
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E4%BC%8A%E6%AF%94%E5%88%A9%E7%81%AB%E8%85%BF.jpg?raw=true"
+st.image(image_url, caption="Jamon Iberico", use_container_width=True)
 
 markdown = """
 在西班牙，品嚐伊比利火腿是一種傳統的儀式，無論是在家庭聚會、節慶還是與朋友聚餐時，伊比利火腿都是必不可少的佳餚。其也成為了國際間推崇的高端食材，許多高端餐廳和美食愛好者都將它視為頂級享受，是西班牙其中一個國際名片。
@@ -68,6 +72,8 @@ markdown = """
 st.markdown(markdown)
 
 st.header("7.燉牛肚 Callos a la Madrileña")
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E7%87%89%E7%89%9B%E8%82%9A.jpg?raw=true"
+st.image(image_url, caption="Callos a la Madrileña", use_container_width=True)
 
 markdown = """
 源自西班牙首都馬德里，這道菜由牛肚與各種香料、番茄和其他食材燉煮而成，風味濃郁，口感豐富。它在寒冷的季節中尤其受歡迎，常常出現在西班牙的家庭聚餐和餐廳菜單上。
@@ -77,6 +83,8 @@ markdown = """
 st.markdown(markdown)
 
 st.header("8.安達盧西亞冷湯 Gazpacho")
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E5%AE%89%E9%81%94%E7%9B%A7%E8%A5%BF%E4%BA%9E%E5%86%B7%E6%B9%AF.jpg?raw=true"
+st.image(image_url, caption="Gazpacho", use_container_width=True)
 
 markdown = """
 Gazpacho 是安達盧西亞的經典料理，起源於西班牙南部的安達盧西亞地區，這裡氣候炎熱且乾燥，它不僅清涼解暑，還能提供充足的水分和維他命，是一道非常健康且既能解渴又能提供營養的夏季菜餚。
@@ -86,6 +94,8 @@ Gazpacho 是安達盧西亞的經典料理，起源於西班牙南部的安達�
 st.markdown(markdown)
 
 st.header("9.巧克力吉拿棒 Churros con Chocolate")
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%90%89%E6%8B%BF%E6%A3%92.jpeg?raw=true"
+st.image(image_url, caption="Churros con Chocolate", use_container_width=True)
 
 markdown = """
 由香脆的吉拿棒（Churros）搭配濃郁的熱巧克力醬（Chocolate）一起食用，通常作為早餐或下午茶的點心。這道甜點在西班牙以及拉丁美洲地區都非常受歡迎，無論是街頭小攤還是餐廳中都可以看到它的身影。
