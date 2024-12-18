@@ -31,6 +31,8 @@ Paella（帕埃利亞）這個名字本身，來自於西班牙的瓦倫西亞�
 st.markdown(markdown)
 
 st.header("3.秘密西班牙松阪豬 Secreto de Cerdo a la Plancha")
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E7%A7%98%E5%AF%86%E8%A5%BF%E7%8F%AD%E7%89%99%E6%9D%BE%E9%98%AA%E8%B1%AC.jpeg?raw=true"
+st.image(image_url, caption="Secreto de Cerdo a la Plancha", use_container_width=True)
 
 markdown = """
 名稱中的“Secreto”意指豬肉的「秘密部位」，這是豬肉上非常嫩且風味極佳的一部分，來自豬肩膀附近的部位，因其形狀不規則且含有豐富的脂肪，通常在傳統的分肉過程中會被忽略不容易在傳統的肉類分切中發現，這也是它被稱為「秘密」的原因。
@@ -40,6 +42,8 @@ markdown = """
 st.markdown(markdown)
 
 st.header("4.西班牙馬鈴薯烘蛋 Tortilla Espanola")
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%AC%E9%88%B4%E8%96%AF%E7%83%98%E8%9B%8B.jpeg?raw=true"
+st.image(image_url, caption="Tortilla Espanola", use_container_width=True)
 
 markdown = """
 Tortilla Española 可以在西班牙的每個家庭、酒吧和餐廳中找到。它不僅是家常菜，還是西班牙的街頭小吃。很多西班牙人在午餐和晚餐時會享用這道菜，甚至會把它當作Tapas（小吃）來分享。
