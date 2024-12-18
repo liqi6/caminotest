@@ -104,8 +104,8 @@ st.markdown(markdown)
 
 st.title("葡萄牙")
 st.header("1.葡式蛋塔 Pastéis de nata")
-image_url = ""
-st.image(image_url, caption="", use_container_width=True)
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB.jpg?raw=true"
+st.image(image_url, caption="Pastéis de nata", use_container_width=True)
 
 markdown = """
 Pastéis de nata 起源於葡萄牙的貝倫（Belém），這裡有著著名的貝倫蛋塔（Pastéis de Belém），被認為是葡萄牙最經典的版本。據說，這道甜點的起源可以追溯到18世紀的修道院，當時修道士使用剩餘的蛋黃和糖漿來製作這道甜點。隨著時間的推移，這款甜點逐漸流行開來，並在葡萄牙各地及全世界廣泛傳播。
@@ -113,8 +113,8 @@ Pastéis de nata 起源於葡萄牙的貝倫（Belém），這裡有著著名的
 st.markdown(markdown)
 
 st.header("2.葡式烤雞 Frango assado")
-image_url = ""
-st.image(image_url, caption="", use_container_width=True)
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E8%91%A1%E5%BC%8F%E7%83%A4%E9%9B%9E.jpg?raw=true"
+st.image(image_url, caption="Frango assado", use_container_width=True)
 
 markdown = """
 Frango Assado 是葡萄牙的一道經典家庭料理，幾乎每個家庭都有自己獨特的烤雞製作方式，通常是將整隻雞用香料和橄欖油醃製後，再放入烤箱中烤製。這道菜風味獨特，外皮酥脆，肉質鮮嫩多汁，並且充滿了香料的香氣。
@@ -124,8 +124,8 @@ Frango Assado 是葡萄牙的一道經典家庭料理，幾乎每個家庭都有
 st.markdown(markdown)
 
 st.header("3.豬扒包 Bifanas")
-image_url = ""
-st.image(image_url, caption="", use_container_width=True)
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E8%B1%AC%E6%89%92%E5%8C%85.jpg?raw=true"
+st.image(image_url, caption="Bifanas", use_container_width=True)
 
 markdown = """
 據說源自葡萄牙的金達（Vila de Fafe）地區，並在當地的酒吧和街頭市場中逐漸流行起來。隨著時間的推移，這道美味小吃成為了葡萄牙各地街頭的經典美食，經常出現在葡萄牙的節日集市和家庭聚會中。
@@ -135,8 +135,8 @@ markdown = """
 st.markdown(markdown)
 
 st.header("4.胖三明治 Francesinha")
-image_url = ""
-st.image(image_url, caption="", use_container_width=True)
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E8%83%96%E4%B8%89%E6%98%8E%E6%B2%BB.jpg?raw=true"
+st.image(image_url, caption="Francesinha", use_container_width=True)
 
 markdown = """
 來自葡萄牙波爾圖地區的經典料理，Francesinha 的名稱意思是“小法國人”，但它的背景並不是來自法國，而是葡萄牙對法式三明治(Croque Monsieur)的獨特創新。這道菜由多層豐富的食材組成，並浸泡在濃郁的醬汁中，是一道非常有特色且令人滿足的美食。
@@ -144,8 +144,8 @@ markdown = """
 st.markdown(markdown)
 
 st.header("5.炸鱈魚球 Bolinhos de Bacalhau")
-image_url = ""
-st.image(image_url, caption="", use_container_width=True)
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E7%82%B8%E9%B1%88%E9%AD%9A%E7%90%83.jpg?raw=true"
+st.image(image_url, caption="Bolinhos de Bacalhau", use_container_width=True)
 
 markdown = """
 葡萄牙有一句名言：“Deus fez o bacalhau e o diabo fez o resto” （“上帝創造了鱈魚，惡魔創造了其餘的”），這句話反映了鱈魚在葡萄牙料理中的重要地位。鱈魚不僅在葡萄牙的日常飲食中占有一席之地，也是葡萄牙傳統節日和家庭聚會的必備食材。
