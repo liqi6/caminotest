@@ -9,7 +9,7 @@ st.markdown(
 )
 st.title("西班牙")
 st.header("1.炭烤香料馬鈴薯章魚腳 Pulpo a la Gallega(Galician-style octopus)")
-image_url = "https://github.com/your-username/your-repository/blob/main/your-image.jpg?raw=true"
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E7%82%AD%E7%83%A4%E9%A6%99%E6%96%99%E9%A6%AC%E9%88%B4%E8%96%AF%E7%AB%A0%E9%AD%9A%E8%85%B3.jpeg?raw=true"
 st.image(image_url, caption="炭烤香料馬鈴薯章魚腳", use_column_width=True)
 
 markdown = """
