@@ -8,9 +8,9 @@ st.markdown(
     """
 )
 st.title("西班牙")
-st.header("1.炭烤香料馬鈴薯章魚腳 Pulpo a la Gallega(Galician-style octopus)")
+st.header("1.炭烤香料馬鈴薯章魚腳 Pulpo a la Gallega")
 image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E7%82%AD%E7%83%A4%E9%A6%99%E6%96%99%E9%A6%AC%E9%88%B4%E8%96%AF%E7%AB%A0%E9%AD%9A%E8%85%B3.jpeg?raw=true"
-st.image(image_url, caption="炭烤香料馬鈴薯章魚腳", use_container_width=True)
+st.image(image_url, caption="Pulpo a la Gallega", use_container_width=True)
 
 markdown = """
 源自西班牙西北部的加利西亞（Galicia）地區，加利西亞有著悠久的海鮮捕撈歷史，尤其是章魚，這使得章魚成為當地餐桌上的重要食材之一。而這道菜也是一種文化象徵，代表著加利西亞人對海洋資源和傳統烹飪的敬意。例如，在加利西亞的章魚節（Festa do Pulpo），這道菜會被大規模製作和享用，成為當地居民和遊客共同慶祝的中心。
@@ -20,6 +20,8 @@ markdown = """
 st.markdown(markdown)
 
 st.header("2.西班牙海鮮大鍋飯 Paella de Marisco")
+image_url = "https://github.com/liqi6/caminotest/blob/main/%E7%BE%8E%E9%A3%9F%E7%85%A7%E7%89%87/%E7%82%AD%E7%83%A4%E9%A6%99%E6%96%99%E9%A6%AC%E9%88%B4%E8%96%AF%E7%AB%A0%E9%AD%9A%E8%85%B3.jpeg?raw=true"
+st.image(image_url, caption="Paella de Marisco", use_container_width=True)
 
 markdown = """
 Paella（帕埃利亞）這個名字本身，來自於西班牙的瓦倫西亞地區（Valencia）。隨著西班牙飲食文化的傳播，Paella 也逐漸成為全球著名的西班牙美食之一。各地的餐廳和家庭都會根據自己的需求，創造出不同版本的 Paella。
